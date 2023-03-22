@@ -7,6 +7,11 @@ for numero in range (1, numero +1):
         primo = "N"
         if primo == "S":
             print("O num "+ str (numero) + "è primo")
+        else:
+            primo = "S"
+
+
+            
 
             # eçif primo == "N"
             # print("O Numero"+str(numero )+"nao é primo")
